@@ -142,14 +142,14 @@ void processInput(GLFWwindow *window)
 
 		if (glfwGetKey(window, GLFW_KEY_F1) == GLFW_PRESS)
 			showDemoWindow = !showDemoWindow;
-		if (glfwGetKey(window, GLFW_KEY_C) == GLFW_PRESS)
+		if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS)
 		{
 			///glfwDisable(GLFW_MOUSE_CURSOR);
 			///glfwEnable(GLFW_MOUSE_CURSOR);
 			glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_NORMAL);
 		}
 
-		if (glfwGetKey(window, GLFW_KEY_V) == GLFW_PRESS) 
+		if (glfwGetKey(window, GLFW_KEY_N) == GLFW_PRESS) 
 			glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
 	});
 	movement.join();
