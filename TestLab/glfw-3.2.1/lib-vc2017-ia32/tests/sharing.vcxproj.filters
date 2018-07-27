@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\extm\1_0\usr\hanazawa\documents\Visual Studio 2017\Projects\glfw-3.2.1-beta\glfw-3.2.1\tests\sharing.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\extm\1_0\usr\hanazawa\documents\Visual Studio 2017\Projects\glfw-3.2.1-beta\glfw-3.2.1\deps\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\extm\1_0\usr\hanazawa\documents\Visual Studio 2017\Projects\glfw-3.2.1-beta\glfw-3.2.1\deps\glad\glad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\extm\1_0\usr\hanazawa\documents\Visual Studio 2017\Projects\glfw-3.2.1-beta\glfw-3.2.1\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D1C968CE-ABEC-3C5A-9199-0C0E4B215BD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E9595E60-B14E-3DE9-AA64-141A883E5FEF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

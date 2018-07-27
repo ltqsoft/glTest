@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\extm\1_0\usr\hanazawa\documents\Visual Studio 2017\Projects\glfw-3.2.1-beta\glfw-3.2.1\lib-vc2017-ia32\CMakeFiles\77967309235760c06e6de947af362c2b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{70139595-F688-3FB3-8732-79846D75B214}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
